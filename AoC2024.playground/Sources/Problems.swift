@@ -2,10 +2,12 @@ import Foundation
 
 public enum Problems {
     case day1
+    case day2
     
     private var engine: SolutionEngine {
         switch self {
         case .day1: return Day1()
+        case .day2: return Day2()
         }
     }
     

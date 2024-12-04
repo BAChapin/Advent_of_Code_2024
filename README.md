@@ -34,6 +34,7 @@ Similar to previous years, I will continue to time my functions and record their
 | Day  | Date/Time Completed | Name                            |
 | :-:  | :-----------------: | :------------------------------ |
 |  1   | Dec 4 - 00:32       | Historian Hysteria              |
+|  2   | Dec 4 - 01:27       | Red-Nosed Reports               |
 
 ## Get Involved
 

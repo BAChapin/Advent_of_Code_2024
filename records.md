@@ -2,6 +2,8 @@
 | :---: | :------------------------------ | :----: | :------------------------- | :--------------: |
 | 1     | Historian Hysteria              | 1      | Initial Design             | 5.79 ms          |
 | 1     | Historian Hysteria              | 2      | Initial Design             | 5.34 ms          |
+| 2     | Red-Nosed Reports               | 1      | Initial Design             | 6.47 ms          |
+| 2     | Red-Nosed Reports               | 2      | Initial Design             | 11.55 ms         |
 
 <sup>1</sup> This will clarify the change that was made to change the time metrics.
 
