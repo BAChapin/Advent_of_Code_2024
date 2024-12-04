@@ -1,3 +1,3 @@
 import UIKit
 
-var greeting = "Hello, playground"
+Problems.day1.run(10)
