@@ -1,9 +1,11 @@
-| Day # | Name                            | Part # | Change Summary<sup>1</sup> | Time<sup>2</sup> |
-| :---: | :------------------------------ | :----: | :------------------------- | :--------------: |
-| 1     | Historian Hysteria              | 1      | Initial Design             | 5.79 ms          |
-| 1     | Historian Hysteria              | 2      | Initial Design             | 5.34 ms          |
-| 2     | Red-Nosed Reports               | 1      | Initial Design             | 6.47 ms          |
-| 2     | Red-Nosed Reports               | 2      | Initial Design             | 11.55 ms         |
+| Day # | Name                            | Part # | Change Summary<sup>1</sup> | Time<sup>2</sup> | AI Leveraged<sup>3</sup> |
+| :---: | :------------------------------ | :----: | :------------------------- | :--------------: | :----------------------: |
+| 1     | Historian Hysteria              | 1      | Initial Design             | 5.79 ms          | --                       |
+| 1     | Historian Hysteria              | 2      | Initial Design             | 5.34 ms          | --                       |
+| 2     | Red-Nosed Reports               | 1      | Initial Design             | 6.47 ms          | --                       |
+| 2     | Red-Nosed Reports               | 2      | Initial Design             | 11.55 ms         | --                       |
+| 3     | Mull It Over                    | 1      | Initial Design             | 19.87 ms         | ChatGPT - Assist         |
+| 3     | Mull It Over                    | 2      | Initial Design             | 1.95 ms          | ChatGPT - All            |
 
 <sup>1</sup> This will clarify the change that was made to change the time metrics.
 

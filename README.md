@@ -35,6 +35,7 @@ Similar to previous years, I will continue to time my functions and record their
 | :-:  | :-----------------: | :------------------------------ |
 |  1   | Dec 4 - 00:32       | Historian Hysteria              |
 |  2   | Dec 4 - 01:27       | Red-Nosed Reports               |
+|  3   | Dec 5 - 00:09       | Mull It Over                    |
 
 ## Get Involved
 

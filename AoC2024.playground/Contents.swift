@@ -1,3 +1,3 @@
 import UIKit
 
-Problems.day2.run(10)
+Problems.day3.run(10)
